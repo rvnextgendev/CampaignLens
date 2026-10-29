@@ -1,0 +1,7 @@
+brand_id,order_id,status,payment_method,delivered_on,payout_on,returned_on,refund_on,net_sales,refund,product_cost,inventory_recovery,outbound_shipping,packaging,reverse_shipping,handling,payment_fee,commission_paid,commission_recovered
+tara_boutique,tara_boutique-001,kept,prepaid,2026-10-01,2026-10-08,,,2799.2,0,1450,0,80,50,0,0,55.984,279.92,0
+tara_boutique,tara_boutique-002,kept,prepaid,2026-10-01,2026-10-08,,,2799.2,0,1450,0,80,50,0,0,55.984,279.92,0
+tara_boutique,tara_boutique-003,returned,prepaid,2026-10-01,2026-10-08,2026-10-20,2026-10-22,2799.2,2799.2,1450,1305.0,80,50,100,40,55.984,279.92,0
+tara_boutique,tara_boutique-004,exchange,prepaid,2026-10-01,2026-10-08,2026-10-10,2026-10-12,2799.2,400.0,2700,1305.0,160,100,100,40,55.984,279.92,0
+tara_boutique,tara_boutique-005,rto,cod,,,,,0,0,1450,1450,80,50,100,20,0,0,0
+tara_boutique,tara_boutique-006,partial_refund,prepaid,2026-10-01,2026-10-08,,2026-10-05,2799.2,100,1450,0,80,50,0,0,55.984,279.92,0

@@ -1,0 +1,11 @@
+FICTIONAL DEMO — Tara Boutique Clothing
+Goal: evaluate whether a planned affiliate promotion has acceptable contribution and clear rules.
+Product: Handcrafted Cotton Kurta. Target: 500 orders. All amounts exclude tax.
+Use the brand.json numbers as the calculation inputs; these are planning assumptions, not verified market facts.
+We pay affiliates 10% of net product sales after allowed discounts.
+Returns are allowed for 14 days from delivery, while affiliate payout occurs after 7 days.
+We intend to reverse unpaid commission on returns, but the demo assumes already-paid commission cannot be recovered.
+Coupon stacking, competing affiliate claims and cheaper-exchange commission are not decided yet.
+Boutique questions: Are made-to-order, altered or custom-fit garments eligible for a refund? Who pays for a fit correction? These exceptions are NOT modeled by the numeric engine.
+Please review the uploaded policy and calculation references. Suggest decisions and draft wording.
+Do not invent missing rules. Do not treat historical demo orders as real evidence of demand.

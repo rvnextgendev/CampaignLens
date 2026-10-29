@@ -1,0 +1,11 @@
+FICTIONAL DEMO — ABC Boutique Footwear
+Goal: evaluate whether a planned affiliate promotion has acceptable contribution and clear rules.
+Product: Handmade Everyday Shoes. Target: 500 orders. All amounts exclude tax.
+Use the brand.json numbers as the calculation inputs; these are planning assumptions, not verified market facts.
+We pay affiliates 12% of net product sales after allowed discounts.
+Returns are allowed for 30 days from delivery, while affiliate payout occurs after 7 days.
+We intend to reverse unpaid commission on returns, but the demo assumes already-paid commission cannot be recovered.
+Coupon stacking, competing affiliate claims and cheaper-exchange commission are not decided yet.
+Footwear questions: Can worn footwear be returned? Are size exchanges charged reverse shipping? These exceptions need a human answer.
+Please review the uploaded policy and calculation references. Suggest decisions and draft wording.
+Do not invent missing rules. Do not treat historical demo orders as real evidence of demand.

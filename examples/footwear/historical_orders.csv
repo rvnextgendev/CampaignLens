@@ -1,0 +1,7 @@
+brand_id,order_id,status,payment_method,delivered_on,payout_on,returned_on,refund_on,net_sales,refund,product_cost,inventory_recovery,outbound_shipping,packaging,reverse_shipping,handling,payment_fee,commission_paid,commission_recovered
+abc_shoes,abc_shoes-001,kept,prepaid,2026-10-01,2026-10-08,,,1699.15,0,850,0,90,35,0,0,33.9830,203.8980,0
+abc_shoes,abc_shoes-002,kept,prepaid,2026-10-01,2026-10-08,,,1699.15,0,850,0,90,35,0,0,33.9830,203.8980,0
+abc_shoes,abc_shoes-003,returned,prepaid,2026-10-01,2026-10-08,2026-10-20,2026-10-22,1699.15,1699.15,850,765.0,90,35,100,40,33.9830,203.8980,0
+abc_shoes,abc_shoes-004,exchange,prepaid,2026-10-01,2026-10-08,2026-10-10,2026-10-12,1699.15,340.00,1500,765.0,180,70,100,40,33.9830,203.8980,0
+abc_shoes,abc_shoes-005,rto,cod,,,,,0,0,850,850,90,35,100,20,0,0,0
+abc_shoes,abc_shoes-006,partial_refund,prepaid,2026-10-01,2026-10-08,,2026-10-05,1699.15,100,850,0,90,35,0,0,33.9830,203.8980,0
